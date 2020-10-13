@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "baeldung.greeter",
+      "type": "com.baeldung.greeter.autoconfigure.GreeterProperties",
+      "sourceType": "com.baeldung.greeter.autoconfigure.GreeterProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "baeldung.greeter.afternoon-message",
+      "type": "java.lang.String",
+      "sourceType": "com.baeldung.greeter.autoconfigure.GreeterProperties"
+    },
+    {
+      "name": "baeldung.greeter.evening-message",
+      "type": "java.lang.String",
+      "sourceType": "com.baeldung.greeter.autoconfigure.GreeterProperties"
+    },
+    {
+      "name": "baeldung.greeter.morning-message",
+      "type": "java.lang.String",
+      "sourceType": "com.baeldung.greeter.autoconfigure.GreeterProperties"
+    },
+    {
+      "name": "baeldung.greeter.night-message",
+      "type": "java.lang.String",
+      "sourceType": "com.baeldung.greeter.autoconfigure.GreeterProperties"
+    },
+    {
+      "name": "baeldung.greeter.user-name",
+      "type": "java.lang.String",
+      "sourceType": "com.baeldung.greeter.autoconfigure.GreeterProperties"
+    }
+  ],
+  "hints": []
+}
